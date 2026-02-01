@@ -35,3 +35,37 @@ To implement a product filtering system using HTML, CSS, and JavaScript.
 ---
 
 ## 📂 Project Structure
+project-folder/
+│
+├── product-filter.html
+└── README.md
+
+---
+
+## ▶ How to Run the Project
+1. Download or clone the repository  
+2. Open `product-filter.html` in any web browser  
+
+---
+
+## 📸 Output
+Displays product cards and filters them based on selected category.
+
+---
+
+## 🚀 Future Improvements
+- Add product images  
+- Add search bar  
+- Add shopping cart feature  
+- Convert to React version  
+- Connect with database  
+
+---
+
+## 👨‍💻 Author
+**Hitesh Chugh**
+
+---
+
+## 📌 Note
+This project is created for educational and experimental purposes.
